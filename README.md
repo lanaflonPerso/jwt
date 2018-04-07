@@ -14,7 +14,7 @@ A rajouter dans la classe WebSecurityConfig pour ne pas être bloqué par les re
 
 principalement 2 fichiers
 
->>Auth.service.ts
+>>Auth.service.ts  
 >>Interceptor.ts
 
 
