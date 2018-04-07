@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/filRouge.iml" filepath="$PROJECT_DIR$/filRouge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-springboot-resources-authmanager/java-springboot-ressource-authmanager.iml" filepath="$PROJECT_DIR$/java-springboot-resources-authmanager/java-springboot-ressource-authmanager.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+co\simplon\authmanager\model\User$UserStatus.class
+co\simplon\authmanager\repository\UserRepository.class
+co\simplon\authmanager\model\PasswordInfos.class
+co\simplon\authmanager\model\Resource.class
+co\simplon\authmanager\controllers\ResourceController.class
+co\simplon\authmanager\model\Permission.class
+co\simplon\authmanager\model\User.class
+co\simplon\authmanager\Application.class
+co\simplon\authmanager\model\LoginInfos.class
+co\simplon\authmanager\repository\ResourceRepository.class
+co\simplon\authmanager\model\Access.class
+co\simplon\authmanager\controllers\AuthController.class
+co\simplon\authmanager\controllers\RoleController.class
+co\simplon\authmanager\controllers\UserController.class
+co\simplon\authmanager\repository\RoleRepository.class
+co\simplon\authmanager\model\Role.class
